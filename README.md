@@ -1,2 +1,5 @@
 # hello-world
-一个简单的hello-world程序
+#include<stdio.h>
+void main(){
+   pritnf("Hello world!");
+   }
